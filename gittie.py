@@ -1,10 +1,6 @@
 def introduce():
     print("Hello, I'm Gittie!")
-<<<<<<< HEAD
-    print("Hey!")
-=======
     print("Hello, I'm not Gittie")
->>>>>>> 106445baab5681778da9580192356e4d40e11890
 
 def add(a, b):
     c = a + b
