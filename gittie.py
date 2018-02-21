@@ -2,9 +2,11 @@ def introduce():
     print("Hello, I'm Gittie!")
     print("Hello, I'm not Gittie :)")
 
+
 def add(a, b):
     c = a + b
     return c    
+
 
 def joke():
     joke = '''
@@ -14,3 +16,7 @@ def joke():
     "Actually", says the little girl, "I don't think my python would notice."
     '''
     print(joke)
+
+
+def shout():
+    print("shout")
